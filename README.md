@@ -1,6 +1,8 @@
 
 ## Hi , I'm Gustavo Araujo :brazil:	 . Nice to see you here 👋
 
+ [old github](https://github.com/gusgraujo)
+
 - :heart_eyes: I’m Back-end developer
 - 🔭 Researcher in subjects related to Web3
 - 💻 Check out some of my projects on my GitHub profile. I'm always looking for feedback and collaborators!
