@@ -1,12 +1,11 @@
 
 ## Hi , I'm Gustavo Araujo :brazil:	 . Nice to see you here 👋
 
- My other github : [GitHub](https://github.com/gusgraujo)
+ My old github : [GitHub](https://github.com/gusgraujo)
 
 - :heart_eyes: I’m Back-end developer
-- 🔭 Researcher in subjects related to Web3
 - 💻 Check out some of my projects on my GitHub profile. I'm always looking for feedback and collaborators!
-- 🌱 I’m currently studiyng Java/Scala/Kotlin
+- 🌱 I’m currently studiyng Java//Kotlin
 
 <div align="center">
   <a href="https://github.com/gusgraujo">
