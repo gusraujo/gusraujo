@@ -1,7 +1,5 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=200&section=header&text=Gustavo%20Araujo&fontSize=50&fontColor=e94560&animation=fadeIn&fontAlignY=38&desc=Back-end%20Developer%20%7C%20Java%20%26%20Kotlin&descAlignY=58&descSize=18&descColor=a8b2d8"/>
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=E94560&center=true&vCenter=true&width=600&lines=Hey+there!+Nice+to+see+you+%F0%9F%91%8B;Back-end+Developer+%F0%9F%87%A7%F0%9F%87%B7;Passionate+about+clean+%26+scalable+code;Always+learning%2C+always+building)](https://git.io/typing-svg)
 
 </div>
